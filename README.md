@@ -7,9 +7,6 @@ Your task is to create a Python program that uses object-oriented programming to
 1. Define a `Book` class that has the following attributes:
    * Title
    * Author
-   * ISBN
-   * Publication year
-   * Number of pages
    * Genre
 
 2. Define a `LibraryCatalog` class that has the following methods:
@@ -30,12 +27,8 @@ Your task is to create a Python program that uses object-oriented programming to
    
 4. The program should also read and write the library catalog to a text file, so that it can be saved between sessions.
 
-To complete this homework, you should implement the `Book` and `LibraryCatalog` classes, and write a program that uses them to create and interact with a library catalog.
+To complete this practice, you should implement the `Book` and `LibraryCatalog` classes, and write a program that uses them to create and interact with a library catalog.
 
 To test your program, you should create a sample catalog of at least 10 books, save it to a file, load it from the file, and verify that the books are correctly displayed and searchable.
 
 Your program should be well-documented and include comments explaining the purpose and behavior of each function.
-
-**Submission Instructions**
-
-Please submit your completed Python script (.py file) and a text file containing a sample library catalog. The script should be well-documented, and include comments explaining the purpose and behavior of each function.
